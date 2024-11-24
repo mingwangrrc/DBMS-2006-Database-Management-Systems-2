@@ -1,7 +1,6 @@
-# DBMS-2006: Database Management Systems 2
+# DBMS-2006 Database Management Systems 2 - Course Repository
 
 ## Course Description
-
 DBMS-2006, Database Management Systems 2, is an extension of the Introduction to Database Management Systems 1 course. This advanced course enhances skills in managing and operating databases with a focus on:
 
 - **Data Import/Export**: Techniques to move data between systems.
@@ -17,39 +16,30 @@ Students will gain proficiency in:
 - **MS SQL Server Tools**: Configuring environments for development and production.
 - **Stored Procedures, Functions, Triggers**: Designing, testing, and debugging with effective exception handling.
 
-## Repository Overview
+## Important Notes
+- **For Review and Understanding Only**: This repository's materials are provided to help students gain insights into potentially challenging aspects of the course, such as assignments and projects. These materials are not intended for direct submission.
+- **Academic Integrity**: It is vital to follow your institution's academic integrity policy when using this repository. Misuse of the materials could lead to serious academic consequences.
 
-This repository includes various assignments and project resources for students of DBMS-2006. These resources are intended to provide practical experience with advanced database management and SQL scripting.
+## Disclaimer
+- The information in this repository is provided for educational purposes only. The owner does not condone plagiarism or academic dishonesty.
+- **Responsibility Disclaimer**: I do not take responsibility if copying materials from this repository leads to academic issues, including receiving a grade of 0 or other sanctions. It is your responsibility to use these resources ethically and in compliance with your academic institution's guidelines.
+- Efforts are made to keep this repository up-to-date, but the owner does not guarantee the accuracy or completeness of the materials.
 
-## Installation
-
-For practical exercises and projects, students will need:
-1. **MS SQL Server**: As the primary database platform.
-2. **Docker**: For containerization tasks.
-
-Detailed installation guides for each software will be provided within specific project folders.
+## Repository Structure
+This repository includes various assignments and project resources for the DBMS-2006 course. Each directory corresponds to different course components and provides insights, overviews, and discussions on tackling these challenges.
 
 ## Usage
+1. **Explore**: Browse the directories to understand the scope and requirements of the assignments and projects.
+2. **Learn**: Use the provided materials as a reference to gain insights and generate ideas on how to approach these projects.
+3. **Do Not Copy**: These materials are meant to promote learning and problem-solving. They should not be used for direct submission.
 
-Navigate through the repository to find specific assignments and projects. Each will include a README.md with detailed setup and execution instructions.
+## Contributions
+Contributions from students who have previously taken the DBMS-2006 course are welcome but must adhere to the following guidelines:
+- **No Direct Answers**: Solutions to projects or assignments are strictly prohibited.
+- **Guidance Only**: Contributed content should provide tips, best practices, or learning resources.
+- **Quality**: Ensure any contributed content is well-documented, clear, and follows good practices.
 
----
+## Contact
+For questions, suggestions, or discussions about this repository, please [open an issue](link-to-your-repository-issues-section).
 
-## Warnings and Disclaimers
-
-### Academic Integrity
-This repository is designed for educational purposes only. Students are expected to comply with their institution’s academic integrity policies when utilizing these materials.
-
-### Data Security
-Adhere to best practices in data security, especially when working with real or sensitive data in experimental or project environments.
-
-### Software Use
-All software used within the course should be used in accordance with their respective licenses. Compliance with these licenses is the user's responsibility.
-
----
-
-## Note
-
-The final project, which constitutes 41% of the final grade, is not included in this repository. This ensures that students engage deeply with the material and develop their own projects. If you are interested in my final project or need guidance, please contact me at mingwang@rrc.ca with your course professor's email for further assistance.
-
----
+Thank you for visiting this repository. Best of luck with your studies in Database Management Systems!
